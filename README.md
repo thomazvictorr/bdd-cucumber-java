@@ -9,16 +9,19 @@ O objetivo do projeto é praticar automação de testes utilizando a abordagem d
 
 ## 📁 Estrutura do Projeto
 
+```
 CursoCucumber/
 ├── src/
-│ ├── main/java
-│ ├── main/resources
-│ ├── test/java
-│ └── test/resources
-├── target/ (Gerado automaticamente - ignorado no Git)
-├── pom.xml (Gerenciador de dependências Maven)
+│   ├── main/java
+│   ├── main/resources
+│   ├── test/java
+│   └── test/resources
+├── target/         (Gerado automaticamente - ignorado no Git)
+├── pom.xml         (Gerenciador de dependências Maven)
 ├── .gitignore
-└── README.md (Este arquivo)
+└── README.md       (Este arquivo)
+```
+
 
 yaml
 Copiar
