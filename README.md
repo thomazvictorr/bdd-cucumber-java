@@ -42,3 +42,11 @@ CursoCucumber/
 - IDE (Eclipse, IntelliJ, VS Code ou outra)
 
 ---
+
+## 📦 Como executar o projeto
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/thomazvictorr/bdd-cucumber-java.git
+cd bdd-cucumber-java
