@@ -22,11 +22,6 @@ CursoCucumber/
 └── README.md       (Este arquivo)
 ```
 
-
-yaml
-Copiar
-Editar
-
 ---
 
 ## 🚀 Tecnologias e Ferramentas
