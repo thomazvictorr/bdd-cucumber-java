@@ -49,4 +49,20 @@ CursoCucumber/
 
 ```bash
 git clone https://github.com/thomazvictorr/bdd-cucumber-java.git
-cd bdd-cucumber-java
+cd bdd-cucumber-java```
+
+2. Importe o projeto em sua IDE (Eclipse, IntelliJ ou VS Code) como um projeto Maven.
+
+3. Baixe as dependências do Maven:
+
+```bash
+mvn install
+```
+
+4. Execute os testes:
+
+```bash
+mvn test
+```
+
+Ou rode diretamente pela IDE acessando a classe `RunnerTest.java` como **JUnit Test**.
