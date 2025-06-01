@@ -49,7 +49,8 @@ CursoCucumber/
 
 ```bash
 git clone https://github.com/thomazvictorr/bdd-cucumber-java.git
-cd bdd-cucumber-java```
+cd bdd-cucumber-java
+```
 
 2. Importe o projeto em sua IDE (Eclipse, IntelliJ ou VS Code) como um projeto Maven.
 
@@ -66,3 +67,53 @@ mvn test
 ```
 
 Ou rode diretamente pela IDE acessando a classe `RunnerTest.java` como **JUnit Test**.
+
+---
+
+## 📝 .gitignore recomendado
+
+```gitignore
+/target
+*.class
+*.log
+*.tmp
+*.swp
+*~
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+```
+
+---
+
+## 💡 Funcionalidades abordadas no curso
+
+- ✅ Criação de testes BDD com Cucumber  
+- ✅ Escrita de cenários no formato **Gherkin**  
+- ✅ Implementação dos **Step Definitions** em Java  
+- ✅ Integração com **JUnit**  
+- ✅ Aplicação de boas práticas em automação de testes  
+
+---
+
+## 🏗️ Projeto Educacional
+
+Este projeto possui **finalidade exclusivamente educacional**, desenvolvido como parte do curso da Udemy:  
+**“Aprenda BDD com Cucumber em Java”**.
+
+---
+
+## 🤝 Contribuição
+
+Fique à vontade para sugerir melhorias ou utilizar como base para seus estudos.
+
+---
+
+## 👨‍💻 Autor
+
+Feito com 💚 por **Thomaz Victor**  
+🔗 [GitHub](https://github.com/thomazvictorr) | [LinkedIn](https://www.linkedin.com/in/thomazvictorr)
+
+---
