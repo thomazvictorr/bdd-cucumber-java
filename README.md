@@ -113,7 +113,6 @@ Fique à vontade para sugerir melhorias ou utilizar como base para seus estudos.
 
 ## 👨‍💻 Autor
 
-Feito com 💚 por **Thomaz Victor**  
-🔗 [GitHub](https://github.com/thomazvictorr) | [LinkedIn](https://www.linkedin.com/in/thomazvictorr)
-
+Feito com ❤️ por **Thomaz Victor**
+<a href="https://github.com/thomazvictorr" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/thomazvictorr" target="_blank">LinkedIn</a>
 ---
